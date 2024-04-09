@@ -19,6 +19,7 @@ Contributions are not only welcomed, they are vital to keep the repository progr
 4. Push your changes to your GitHub profile.
 5. Create a Pull Request.
 6. The Pull Request will be reviewed and if acceptable, will be merged into the main branch by the repository maintainer.
+   A Github Action then builds the updated documentation.
 
 ## Code Contribution
 
