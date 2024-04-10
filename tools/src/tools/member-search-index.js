@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"tools","c":"toolbox","l":"CreateDirAndFile()"},{"p":"tools","c":"toolbox","l":"toolbox()","u":"%3Cinit%3E()"}];updateSearchResults();
