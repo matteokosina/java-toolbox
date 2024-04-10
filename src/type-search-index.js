@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"Alle Klassen und Schnittstellen","u":"allclasses-index.html"},{"p":"src","l":"toolbox"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"src","l":"toolbox"}]
