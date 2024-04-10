@@ -23,7 +23,7 @@ Contributions are not only welcomed, they are vital to keep the repository progr
 
 ## Code Contribution
 
-<b>All contributions should be made to the class - toolbox.class.</b>
+<b>All contributions should be made to the class - toolbox.class (java-toolbox/src/)</b>
 
 You are allowed to add any Java method that can be potentially useful in the exam. All the methods have to be static.
 
