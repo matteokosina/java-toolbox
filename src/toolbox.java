@@ -17,4 +17,14 @@ public class toolbox {
             ex.printStackTrace();
         }
     }
+    /**
+     * A class to create your own exception
+     */
+    class DivZeroException extends Exception {
+        public DivZeroException(){
+        }
+        public DivZeroException(String message){
+            super(message);
+        }
+    }
 }
