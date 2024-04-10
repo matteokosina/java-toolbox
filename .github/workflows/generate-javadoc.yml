@@ -19,7 +19,8 @@ jobs:
           distribution: 'adopt'
 
       - name: Generate Javadoc
-        run: mvn javadoc:javadoc
+        run: javadoc toolbox.java
+        working-directory: ./src
 
       - name: Commit Javadoc
         run: |
