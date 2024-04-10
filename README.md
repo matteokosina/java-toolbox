@@ -3,6 +3,9 @@
 <img width="355"  alt="Screenshot 2024-04-09 at 00 14 00" src="https://github.com/matteokosina/java-toolbox/assets/74454734/5a380b1b-5f20-499b-8dc9-9a481addec81" style="display: block; margin-left: auto; margin-right: auto;">
 
 A collection of useful methods for the exam in the "Programmieren_I" course
+
+[VIEW DOCUMENTATION HERE](https://matteokosina.github.io/java-toolbox/src/src/package-summary.html)
+
 # Contribution Guidelines
 
 Hello and thank you for your interest in contributing to this collection of useful Java methods.
