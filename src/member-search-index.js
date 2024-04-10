@@ -1,1 +1,1 @@
-memberSearchIndex = [{"p":"src","c":"toolbox","l":"CreateDirAndFile()"},{"p":"src","c":"toolbox","l":"toolbox()","url":"%3Cinit%3E()"}]
+memberSearchIndex = [{"p":"src","c":"toolbox","l":"CreateDirAndFile()"},{"p":"src","c":"toolbox","l":"isPalindrome(String)","url":"isPalindrome(java.lang.String)"},{"p":"src","c":"toolbox","l":"toolbox()","url":"%3Cinit%3E()"}]
