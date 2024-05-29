@@ -34,7 +34,6 @@ For every method contributed, you need to:
 - Ensure the method works and does its intended job.
 - Document the method to include `@return`, `@parameter` and description of what the method does.
 
-
 Here is an example:
 
 ```java
